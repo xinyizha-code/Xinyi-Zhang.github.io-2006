@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: COMP110 data analysis projects and utilities
+title: COMP110 data analysis projects
 email: xinyizha@unc.edu
 description: >-
   My personal website for COMP110 data analysis projects, including survey analysis.
